@@ -6,7 +6,7 @@
 https://help.offsec.com/hc/en-us/articles/22494486684436-PEN-200-Offline-Video-Mapping
 
 # EXAMPLE
-The powershell script takes the short abbreviated name and renames it to the long title
+- The powershell script takes the short abbreviated name and renames it to the long title
 ```
     "IG_02_01" = "6.2.1 Whois Enumeration"
     "IG_02_02" = "6.2.2 Google Hacking"
@@ -16,4 +16,4 @@ The powershell script takes the short abbreviated name and renames it to the lon
 ```
 
 # USAGE
-Make sure you are in the directory where all the videos currently are before running
+- Make sure you are in the directory where all the videos currently are before running
